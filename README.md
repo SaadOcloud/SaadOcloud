@@ -14,7 +14,7 @@
 
 ### I'm a MERN STACK Developer, Teacher and Researcher!
 - 🔭 I’m currently working as Backend Engineer @OcloudSolutions.
-- 🌱 I’m currently expanding my knowledge in DevOps.
+- 🌱 I’m currently expanding my knowledge in React and Typescript.
 - 👯 I’m looking to collaborate with other content creators and developers.
 - 📢 Love to teach and inspire students. Taught over more then 500 students.
 - 🥅 2022-23 Goals: Contribute more to Open Source projects and Execute my Innovative ideas.
